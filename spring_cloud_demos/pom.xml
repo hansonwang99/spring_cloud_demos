@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.codesheep</groupId>
+    <artifactId>spring_cloud_demos</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>eureka_server</module>
+        <module>eureka_client</module>
+        <module>consul_client</module>
+        <module>eureka_consumer</module>
+        <module>eureka_consumer_ribbon</module>
+        <module>eureka_consumer_feign</module>
+        <module>eureka_client_fileupload</module>
+        <module>eureka_consumer_fileupload</module>
+        <module>config_server</module>
+        <module>config_client</module>
+        <module>config_server_producer</module>
+        <module>config_client_consumer</module>
+        <module>eureka_client_delay</module>
+        <module>eureka_consumer_ribbon_hystrix</module>
+        <module>hystrix_dashboard</module>
+        <module>hystrix_turbine</module>
+        <module>eureka_client_for_gateway_base</module>
+        <module>api_gateway_base</module>
+        <module>eureke_client_for_gateway_routecfg_1</module>
+        <module>eureke_client_for_gateway_routecfg_2</module>
+        <module>api_gateway_route</module>
+        <module>api_gateway_filter</module>
+    </modules>
+
+</project>

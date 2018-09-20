@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api_gateway_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway_filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway_route" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_client_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_server_producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_client_delay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_client_fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_client_for_gateway_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_consumer_ribbon_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix_turbine" charset="UTF-8" />
+  </component>
+</project>

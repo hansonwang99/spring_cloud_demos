@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api_gateway_base" />
+        <module name="api_gateway_filter" />
+        <module name="api_gateway_route" />
+        <module name="config_client" />
+        <module name="config_client_consumer" />
+        <module name="config_server" />
+        <module name="config_server_producer" />
+        <module name="consul_client" />
+        <module name="eureka_client" />
+        <module name="eureka_client_delay" />
+        <module name="eureka_client_fileupload" />
+        <module name="eureka_client_for_gateway_base" />
+        <module name="eureka_consumer" />
+        <module name="eureka_consumer_feign" />
+        <module name="eureka_consumer_fileupload" />
+        <module name="eureka_consumer_ribbon" />
+        <module name="eureka_consumer_ribbon_hystrix" />
+        <module name="eureka_server" />
+        <module name="eureke_client_for_gateway_routecfg_1" />
+        <module name="eureke_client_for_gateway_routecfg_2" />
+        <module name="hystrix_dashboard" />
+        <module name="hystrix_turbine" />
+        <module name="spring_cloud_demos" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="turbine" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

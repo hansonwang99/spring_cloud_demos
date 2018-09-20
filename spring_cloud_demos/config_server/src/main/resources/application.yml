@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/hansonwang99/spring_cloud_config
+          username: hansonwang99
+          password: 123456ws
+
+server:
+  port: 1119

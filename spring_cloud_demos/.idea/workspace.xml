@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cd3395c-1871-4433-8b27-acf7164192ca" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_server/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_client/target/" />
+    <ignored path="$PROJECT_DIR$/consul_client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_consumer/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_consumer_ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_consumer_feign/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_client_fileupload/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_consumer_fileupload/target/" />
+    <ignored path="$PROJECT_DIR$/config_server/target/" />
+    <ignored path="$PROJECT_DIR$/config_client/target/" />
+    <ignored path="$PROJECT_DIR$/config_server_producer/target/" />
+    <ignored path="$PROJECT_DIR$/config_client_consumer/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_client_delay/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/hystrix_dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/turbine/target/" />
+    <ignored path="$PROJECT_DIR$/hystrix_turbine/target/" />
+    <ignored path="$PROJECT_DIR$/eureka_client_for_gateway_base/target/" />
+    <ignored path="$PROJECT_DIR$/api_gateway_base/target/" />
+    <ignored path="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/target/" />
+    <ignored path="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/target/" />
+    <ignored path="$PROJECT_DIR$/api_gateway_route/target/" />
+    <ignored path="$PROJECT_DIR$/api_gateway_filter/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekeClientForGatewayRoutecfg2Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_2/EurekeClientForGatewayRoutecfg2Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_base/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="12" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_route/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="12" selection-end-line="16" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiGatewayRouteApplicationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_route/src/test/java/cn/codesheep/api_gateway_route/ApiGatewayRouteApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiGatewayBaseApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_base/src/main/java/cn/codesheep/api_gateway_base/ApiGatewayBaseApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiGatewayFilterApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/java/cn/codesheep/api_gateway_filter/ApiGatewayFilterApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvnw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_gateway_base/mvnw">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-cloud-starter-consul-discovery</find>
+      <find>xxxx</find>
+      <find>spring-cloud-starter-hystrix</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/config_client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config_client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config_server_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/config_server_producer/src/main/java/cn/codesheep/config_server_producer/ConfigServerProducerApplication.java" />
+        <option value="$PROJECT_DIR$/config_server_producer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/config_client_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/config_client_consumer/src/main/java/cn/codesheep/config_client_consumer/ConfigClientConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/config_client_consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/config_client_consumer/src/main/java/cn/codesheep/config_client_consumer/TestController.java" />
+        <option value="$PROJECT_DIR$/config_client_consumer/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/eureka_client_delay/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_client_delay/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka_client_delay/src/main/java/cn/codesheep/eureka_client_delay/EurekaClientDelayApplication.java" />
+        <option value="$PROJECT_DIR$/eureka_client_delay/src/main/java/cn/codesheep/eureka_client_delay/EurekaClientController.java" />
+        <option value="$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/java/cn/codesheep/eureka_consumer_ribbon_hystrix/TestController.java" />
+        <option value="$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/java/cn/codesheep/eureka_consumer_ribbon_hystrix/EurekaConsumerRibbonHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/hystrix_dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix_dashboard/src/main/java/cn/codesheep/hystrix_dashboard/HystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/hystrix_dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/turbine/src/main/java/cn/codesheep/turbine/TurbineApplication.java" />
+        <option value="$PROJECT_DIR$/turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix_turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix_turbine/src/main/java/cn/codesheep/hystrix_turbine/HystrixTurbineApplication.java" />
+        <option value="$PROJECT_DIR$/hystrix_turbine/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka_client_for_gateway_base/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/java/cn/codesheep/eureka_client_for_gateway_base/EurekaClientForGatewayBaseApplication.java" />
+        <option value="$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/java/cn/codesheep/eureka_client_for_gateway_base/EurekaClientController.java" />
+        <option value="$PROJECT_DIR$/api_gateway_base/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway_base/src/main/java/cn/codesheep/api_gateway_base/ApiGatewayBaseApplication.java" />
+        <option value="$PROJECT_DIR$/api_gateway_base/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/pom.xml" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_1/EurekeClientForGatewayRoutecfg1Application.java" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_2/EurekeClientForGatewayRoutecfg2Application.java" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_2/EurekaClientController.java" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_1/EurekaClientController.java" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/api_gateway_route/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway_route/src/main/java/cn/codesheep/api_gateway_route/ApiGatewayRouteApplication.java" />
+        <option value="$PROJECT_DIR$/api_gateway_route/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway_filter/src/main/java/cn/codesheep/api_gateway_filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/api_gateway_filter/src/main/java/cn/codesheep/api_gateway_filter/ApiGatewayFilterApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1238" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud_demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud_demos" type="462c0819:PsiDirectoryNode" />
+              <item name="api_gateway_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="ToolWindowRun Dashboard.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.codesheep.eureke_client_for_gateway_routecfg_2" />
+      <recent name="cn.codesheep.eureke_client_for_gateway_routecfg_1" />
+      <recent name="cn.codesheep.eureka_client_for_gateway_base" />
+      <recent name="cn.codesheep.eureka_client_delay" />
+      <recent name="cn.codesheep.consul_client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api_gateway_filter/src/main/resources" />
+      <recent name="$PROJECT_DIR$/api_gateway_route/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.29787233" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayFilterApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ApiGatewayBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.codesheep.api_gateway_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.api_gateway_base.ApiGatewayBaseApplication" />
+    </configuration>
+    <configuration name="ApiGatewayFilterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway_filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.codesheep.api_gateway_filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.api_gateway_filter.ApiGatewayFilterApplication" />
+    </configuration>
+    <configuration name="ApiGatewayRouteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway_route" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.codesheep.api_gateway_route.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.api_gateway_route.ApiGatewayRouteApplication" />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.config_client.ConfigClientApplication" />
+    </configuration>
+    <configuration name="ConfigClientConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config_client_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.config_client_consumer.ConfigClientConsumerApplication" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.config_server.ConfigServerApplication" />
+    </configuration>
+    <configuration name="ConfigServerProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config_server_producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.config_server_producer.ConfigServerProducerApplication" />
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="eureka_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureka_client.EurekaClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8888" />
+        </param>
+      </additionalParameters>
+    </configuration>
+    <configuration name="EurekaClientDelayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_client_delay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureka_client_delay.EurekaClientDelayApplication" />
+    </configuration>
+    <configuration name="EurekaConsumerRibbonHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="eureka_consumer_ribbon_hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureka_consumer_ribbon_hystrix.EurekaConsumerRibbonHystrixApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="1199" />
+        </param>
+      </additionalParameters>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureka_server.EurekaServerApplication" />
+    </configuration>
+    <configuration name="EurekeClientForGatewayRoutecfg1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureke_client_for_gateway_routecfg_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.codesheep.eureke_client_for_gateway_routecfg_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureke_client_for_gateway_routecfg_1.EurekeClientForGatewayRoutecfg1Application" />
+    </configuration>
+    <configuration name="EurekeClientForGatewayRoutecfg2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureke_client_for_gateway_routecfg_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.codesheep.eureke_client_for_gateway_routecfg_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.eureke_client_for_gateway_routecfg_2.EurekeClientForGatewayRoutecfg2Application" />
+    </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix_dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.hystrix_dashboard.HystrixDashboardApplication" />
+    </configuration>
+    <configuration name="HystrixTurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix_turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.hystrix_turbine.HystrixTurbineApplication" />
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.codesheep.turbine.TurbineApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerProducerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientConsumerApplication" />
+      <item itemvalue="Spring Boot.EurekaClientDelayApplication" />
+      <item itemvalue="Spring Boot.EurekaConsumerRibbonHystrixApplication" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.TurbineApplication" />
+      <item itemvalue="Spring Boot.HystrixTurbineApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayBaseApplication" />
+      <item itemvalue="Spring Boot.EurekeClientForGatewayRoutecfg1Application" />
+      <item itemvalue="Spring Boot.EurekeClientForGatewayRoutecfg2Application" />
+      <item itemvalue="Spring Boot.ApiGatewayRouteApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayFilterApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayFilterApplication" />
+        <item itemvalue="Spring Boot.EurekeClientForGatewayRoutecfg2Application" />
+        <item itemvalue="Spring Boot.EurekeClientForGatewayRoutecfg1Application" />
+        <item itemvalue="Spring Boot.ApiGatewayRouteApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayBaseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd3395c-1871-4433-8b27-acf7164192ca" name="Default" comment="" />
+      <created>1536922791955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536922791955</updated>
+      <workItem from="1536922794030" duration="5835000" />
+      <workItem from="1536929329010" duration="609000" />
+      <workItem from="1536993311766" duration="11191000" />
+      <workItem from="1537167143298" duration="958000" />
+      <workItem from="1537168142259" duration="122000" />
+      <workItem from="1537168445229" duration="22692000" />
+      <workItem from="1537325191442" duration="257000" />
+      <workItem from="1537325480302" duration="3438000" />
+      <workItem from="1537425882590" duration="4708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 40m 50s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 42m 16s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 43m 20s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 50m 19s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 50m 37s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 52m 59s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 53m 12s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 56m 48s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 15h 57m 13s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaConsumerFileuploadApplicationTests - 2018.09.17 at 16h 03m 42s.xml">
+      <configuration name="EurekaConsumerFileuploadApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49810000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="23" width="1238" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" x="274" y="163" width="2079" height="429" id="Run Dashboard" order="10" weight="0.4184168" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2603306" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848838" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eureka_client_fileupload/src/main/java/cn/codesheep/eureka_client_fileupload/EurekaClientFileuploadApplication.java</url>
+          <line>13</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/config_client/src/main/java/cn/codesheep/config_client/ConfigClientApplication.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/config_server_producer/src/main/java/cn/codesheep/config_server_producer/ConfigServerProducerApplication.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/config_client_consumer/src/main/java/cn/codesheep/config_client_consumer/ConfigClientConsumerApplication.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/turbine/src/main/java/cn/codesheep/turbine/TurbineApplication.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eureka_consumer_feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix_dashboard/src/main/java/cn/codesheep/hystrix_dashboard/HystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/java/cn/codesheep/eureka_consumer_ribbon_hystrix/EurekaConsumerRibbonHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_server/src/main/java/cn/codesheep/eureka_server/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/turbine/src/main/java/cn/codesheep/turbine/TurbineApplication.java" />
+    <entry file="file://$PROJECT_DIR$/hystrix_dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" selection-start-line="27" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix_turbine/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix_turbine/src/main/java/cn/codesheep/hystrix_turbine/HystrixTurbineApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix_dashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_delay/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix_turbine/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="29" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_consumer_ribbon_hystrix/src/main/java/cn/codesheep/eureka_consumer_ribbon_hystrix/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="60" column="27" selection-start-line="26" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/cn/codesheep/eureka_client/EurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/java/cn/codesheep/eureka_client_for_gateway_base/EurekaClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="29" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_for_gateway_base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="60" column="27" selection-start-line="26" selection-start-column="4" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_for_gateway_base/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client_for_gateway_base/src/main/java/cn/codesheep/eureka_client_for_gateway_base/EurekaClientForGatewayBaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_1/EurekeClientForGatewayRoutecfg1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_2/EurekaClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_1/EurekaClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="54" column="27" selection-start-line="26" selection-start-column="4" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_demos.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_route/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="54" column="27" selection-start-line="26" selection-start-column="4" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-854" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_route/src/main/java/cn/codesheep/api_gateway_route/ApiGatewayRouteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/java/cn/codesheep/api_gateway_filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_base/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_base/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_base/src/main/java/cn/codesheep/api_gateway_base/ApiGatewayBaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_base/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_route/src/test/java/cn/codesheep/api_gateway_route/ApiGatewayRouteApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_route/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureke_client_for_gateway_routecfg_2/src/main/java/cn/codesheep/eureke_client_for_gateway_routecfg_2/EurekeClientForGatewayRoutecfg2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway_filter/src/main/java/cn/codesheep/api_gateway_filter/ApiGatewayFilterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eureka_consumer_ribbon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
